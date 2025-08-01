@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="savepip",
-    version="0.1.1",
+    version="0.2.0",
     author="ADIL ALAMI",
     author_email="adilalami707@gmail.com",
     description="A tool to install and save clean package dependencies",
